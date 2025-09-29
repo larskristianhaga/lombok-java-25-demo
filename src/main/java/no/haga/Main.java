@@ -2,10 +2,10 @@ package no.haga;
 
 public class Main {
     static void main() {
-        IO.println("Hello and welcome!");
+        System.out.println("Hello and welcome!");
 
         for (int i = 1; i <= 5; i++) {
-            IO.println("i = " + i);
+            System.out.println("i = " + i);
         }
     }
 }
