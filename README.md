@@ -1,3 +1,5 @@
+# SOLVED AFTER CHECKING OUT THE LATEST INSTALL GUIDE
+
 # Lombok Java 25 demo
 
 After upgrading to Java 25 the annotation `@AllArgsConstructor` on enum classes will stop the application from compiling.
